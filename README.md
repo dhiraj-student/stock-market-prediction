@@ -19,7 +19,7 @@ This project focuses on predicting the **Nifty 50** stock index using a deep lea
 
 ## Dataset
 - **Source:** Historical stock prices of **Nifty 50** index
-- **Time Period:** April 13, 2023 – April 13, 2024
+- **Time Period:** July 12, 2023 – July 13, 2024
 - **Features Used:** Only `Close` prices were used for training and prediction.
 
 # Data Preprocessing
